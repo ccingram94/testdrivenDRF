@@ -2,4 +2,4 @@
 
 This is a Django/REST API project with instruction courtesy of testdriven.io
 
-[![pipeline status](https://gitlab.com/ccingram94/testdrivenDRF/badges/master/pipeline.svg)](https://gitlab.com/ccingram94/django-tdd-docker/commits/master)
+[![pipeline status](https://gitlab.com/ccingram94/testdrivenDRF/badges/master/pipeline.svg)](https://gitlab.com/ccingram94/testdrivenDRF/commits/master)
